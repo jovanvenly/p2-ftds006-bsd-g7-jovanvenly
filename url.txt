@@ -1,0 +1,5 @@
+dataset :
+https://www.kaggle.com/datasets/tarkkaanko/amazon/data
+
+deployment :
+https://huggingface.co/spaces/jovanvenly/grade_challenge7?logs=container
